@@ -46,7 +46,7 @@ Develop a decentralized lending product that:
     - Provide APIs for interoperability with other DeFi applications.
 
 5. **Sponsorship Utilization**:
-    - Incorporate the $50,000 Swan Token sponsorship to incentivize early adoption and provide rewards to participants.
+    - Incorporate the $50,000 Swan/OP Token sponsorship to incentivize early adoption and provide rewards to participants.
 
 6. **Inspired Features**:
     - Consider features from the [**Parasail Fluence Staking model**](https://docs.parasail.network/delegation-guides/guide-for-fluence-stakers/staking-flt) , such as liquid staking tokens, easy withdrawal processes, and automated management of rewards.
@@ -62,7 +62,7 @@ Develop a decentralized lending product that:
     - **Budget**: Provide a detailed breakdown of expected costs.
     - **Milestones**: Specify clear phases, deliverables, and expected completion dates.
     - **References**: Include relevant past projects or similar implementations.
-3. Use **Labels**: Add "RFP" and "Swan Token Lending" for tracking.
+3. Use **Labels**: Add "RFP" for tracking.
 4. Submit the issue and share the link via the designated submission portal or email.
 
 ---
