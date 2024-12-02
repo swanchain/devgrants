@@ -4,7 +4,7 @@
 
 We are excited to announce a Request for Proposals (RFP) for the development of the **Swan Token Lending Product**. This initiative seeks to empower computing providers by enabling access to collateral for their businesses while offering Swan Token holders opportunities to lend tokens and earn rewards. This project aims to create a user-friendly, efficient, and secure decentralized lending platform.
 
-A sponsorship fund of **$50,000 in Swan Tokens** has been allocated to support this initiative.
+A sponsorship fund of **$50,000 in Swan/OP Tokens** has been allocated to support this initiative.
 
 ---
 
